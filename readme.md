@@ -7,6 +7,6 @@
 
 ### Ciudad de México
 
--comida
--escuchar
--jugar
+- comida
+- escuchar
+- jugar
